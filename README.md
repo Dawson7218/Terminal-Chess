@@ -1,0 +1,1 @@
+This is my first personal project of any notable scale that I am doing. It is an attempt at making Chess in the command terminal in C++. Not much else to it right now, still very early in development.
